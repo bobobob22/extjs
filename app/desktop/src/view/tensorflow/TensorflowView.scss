@@ -1,0 +1,41 @@
+// sass for MyExtGenApp.view.tensorflow.TensorflowView
+.tensorflowview {
+  box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.img-placeholder{
+  max-width: 100%;
+  &__big{
+    display: none;
+  }
+}
+
+.x-component-footer-body-el{
+  justify-content: center!important;
+}
+
+#ext-centerview-1 .x-dock{
+  flex: initial!important;
+}
+
+#ext-element-42{
+  margin: 10px;
+}
+
+#ext-element-57{
+  overflow: scroll;
+}
+
+#ext-element-64,
+#ext-element-59{
+  font-size: 10px;
+}
+
+.x-big .x-toolbar-body-el{
+  min-height: unset;
+  padding: 0;
+}
+
+.submit-image{
+
+}
